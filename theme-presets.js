@@ -1,0 +1,13 @@
+export const THEME_PRESETS = {
+  "evergreen-library": {name:"Evergreen Library",group:"Minimal",base:"#CDE0C9",accent:"#E8A838",paper:"#FAF6EE",ink:"#2C221E",plum:"#3B222E",headingFont:"Playfair Display",bodyFont:"Plus Jakarta Sans",scriptFont:"Caveat",radius:"28px"},
+  "september-moon": {name:"September Moon",group:"Monthly",base:"#D8E2DC",accent:"#D5A64A",paper:"#F7F2E9",ink:"#332925",plum:"#4A3340",headingFont:"Lora",bodyFont:"Plus Jakarta Sans",scriptFont:"Caveat",radius:"30px"},
+  "diwali-gold": {name:"Diwali Gold",group:"Indian Traditions",base:"#E8D8C3",accent:"#D89024",paper:"#FFF7E8",ink:"#342018",plum:"#632D32",headingFont:"Playfair Display",bodyFont:"Plus Jakarta Sans",scriptFont:"Caveat",radius:"24px"},
+  "holi-bloom": {name:"Holi Bloom",group:"Indian Traditions",base:"#DDE9D7",accent:"#D86B68",paper:"#FFF8F0",ink:"#332520",plum:"#7A3F63",headingFont:"Lora",bodyFont:"Plus Jakarta Sans",scriptFont:"Caveat",radius:"28px"},
+  "monsoon-postcard": {name:"Monsoon Postcard",group:"Indian Seasons",base:"#BFD8D2",accent:"#C28D4B",paper:"#F4F1E9",ink:"#253331",plum:"#344C57",headingFont:"Lora",bodyFont:"Plus Jakarta Sans",scriptFont:"Caveat",radius:"22px"},
+  "ganesh-chaturthi": {name:"Ganesh Chaturthi",group:"Indian Traditions",base:"#E7D5C2",accent:"#C77A2B",paper:"#FFF5E5",ink:"#35231B",plum:"#7B3F37",headingFont:"Playfair Display",bodyFont:"Plus Jakarta Sans",scriptFont:"Caveat",radius:"26px"},
+  "navratri-night": {name:"Navratri Night",group:"Indian Traditions",base:"#D9C9D8",accent:"#C18B39",paper:"#F7F0F5",ink:"#281D29",plum:"#51264B",headingFont:"Playfair Display",bodyFont:"Plus Jakarta Sans",scriptFont:"Caveat",radius:"26px"},
+  "winter-paper": {name:"Winter Paper",group:"Minimal",base:"#E1E6EA",accent:"#B8945B",paper:"#FBFAF7",ink:"#2B2B2B",plum:"#4A4D58",headingFont:"Lora",bodyFont:"Plus Jakarta Sans",scriptFont:"Caveat",radius:"20px"},
+  "midnight-library": {name:"Midnight Library",group:"Minimal",base:"#2E3A3A",accent:"#E4B85E",paper:"#EEE9DE",ink:"#F6F0E7",plum:"#172527",headingFont:"Playfair Display",bodyFont:"Plus Jakarta Sans",scriptFont:"Caveat",radius:"26px"},
+  "parchment-letter": {name:"Parchment Letter",group:"Minimal",base:"#E7D8C7",accent:"#A8733C",paper:"#F8F0E1",ink:"#3A2B22",plum:"#5A4035",headingFont:"Lora",bodyFont:"Plus Jakarta Sans",scriptFont:"Caveat",radius:"16px"}
+};
+export const MONTHLY_THEMES = {1:"winter-paper",2:"september-moon",3:"holi-bloom",4:"evergreen-library",5:"evergreen-library",6:"monsoon-postcard",7:"monsoon-postcard",8:"ganesh-chaturthi",9:"september-moon",10:"navratri-night",11:"diwali-gold",12:"winter-paper"};
